@@ -1,0 +1,17 @@
+/* Skills.css */
+.skills-section {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 20px;
+    justify-items: center;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  

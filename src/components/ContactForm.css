@@ -1,0 +1,87 @@
+.contact-page {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 3rem;
+  margin-top: 1rem;
+  gap: 3rem;
+  flex-wrap: wrap;
+}
+
+.contact-info {
+  flex: 1;
+  padding: 2.5rem;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 3000px;
+  min-height: 400px; 
+  height: 100%; 
+}
+
+.contact-info h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.contact-details {
+  display: flex;
+  align-items: center;
+  margin-top: 1.5rem;
+}
+
+.profile-image {
+  width: 300px;
+  height: 500px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.contact-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.contact-text p {
+  margin: 10px 0;
+}
+
+.contact-form {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  padding: 3rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  min-width: 300px;
+  max-width: 600px;
+  width: 100%;
+}
+
+.contact-form input, 
+.contact-form textarea {
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.contact-form textarea {
+  resize: vertical;
+  min-height: 200px;
+}
+
+.send-btn {
+  padding: 1rem;
+  background-color: #6c63ff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
