@@ -1,0 +1,87 @@
+
+/* Education Section Styling */
+.education-section {
+    padding: 40px;
+    background-color: #f0f4fa; 
+    text-align: center;
+  }
+  
+  .education-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #1a73e8; 
+  }
+  
+  .education-subtitle {
+    font-size: 1.2rem;
+    margin-bottom: 40px;
+    color: #666;
+  }
+  
+  /* Education Cards */
+  .education-cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .education-card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    max-width: 800px;
+    width: 100%;
+  }
+  
+  .education-image {
+    width: 200px;
+    object-fit: cover;
+    border-right: 5px solid #f0f4fa;
+  }
+  
+  .education-content {
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .education-content h3 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .education-content p {
+    font-size: 1rem;
+    color: #666;
+  }
+  
+  .status-pursuing {
+    color: green;
+    font-weight: bold;
+  }
+  
+  .status-completed {
+    color: blue;
+    font-weight: bold;
+  }
+  
+ 
+  @media (max-width: 768px) {
+    .education-cards {
+      flex-direction: column;
+    }
+  
+    .education-card {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .education-image {
+      width: 100%;
+      border-right: none;
+    }
+  }
+  
