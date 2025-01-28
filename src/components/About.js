@@ -33,7 +33,7 @@ function About() {
             <p><strong>Place:</strong> Puducherry, India - 605009</p>
           </div>
 
-           <a href="https://drive.google.com/file/d/1l5UGFXBI6EPa4qOXlnTWD6tML1tFSJB2/view?usp=drive_linkhttps://drive.google.com/file/d/1l5UGFXBI6EPa4qOXlnTWD6tML1tFSJB2/view?usp=sharing" className="resume-btn">Resume</a>
+           <a href="https://drive.google.com/file/d/1Yc-2Sfu6K5X_4wfvgwXQ4FsQTs-BvASz/view?usp=sharing" className="resume-btn">Resume</a>
         </div>
       </div>
       <div>
