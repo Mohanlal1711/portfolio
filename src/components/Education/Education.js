@@ -19,7 +19,7 @@ const Education = () => {
           <div className="education-content">
             <h3>Bachelor Of Technology In Electrical And Electronics Engineering</h3>
             <p>Sri Manakula Vinayagar Engineering College</p>
-            <p>2021-2025 | CGPA : 7.54 | <span className="status-pursuing">Pursuing</span></p>
+            <p>2021-2025 | CGPA : 7.77 | <span className="status-completed">Completed</span></p>
           </div>
         </div>
 

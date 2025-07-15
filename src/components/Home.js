@@ -24,7 +24,7 @@ function Home() {
         </p>
         <div className="buttons">
           <button className="btn hire-btn"><a href="mailto:mohanlalsathya@gmail.com"> Hire Me</a></button>
-          <button className="btn download-btn"><a href="https://drive.google.com/file/d/1Yc-2Sfu6K5X_4wfvgwXQ4FsQTs-BvASz/view?usp=sharing">Download CV</a></button>
+          <button className="btn download-btn"><a href="https://drive.google.com/file/d/1E_HKilHEaUDqspRpFFTV9I9WDV352TvC/view?usp=sharing">Download CV</a></button>
         </div>
         <div className="social-icons">
           <a href="https://www.instagram.com/marvel_of_my_world" aria-label="Instagram Profile">

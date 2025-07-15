@@ -5,7 +5,7 @@ import './skills.css';
 
 const skillsData = [
   
-  { name: 'Proteus', icon: require('../../assets/skills/proteus.png') },
+  { name: 'Proteus', icon: require('../../assets/skills/Proteus.png') },
   { name: 'Arduino IDE', icon: require('../../assets/skills/arduino.jpg') },
   { name: 'Autocad', icon: require( '../../assets/skills/autocad.png') },
   { name: 'Embedded C', icon: require('../../assets/skills/embedded.png') },
@@ -15,7 +15,8 @@ const skillsData = [
   { name: 'JAVA', icon: require('../../assets/skills/java.png') },
   { name: 'HTML', icon: require('../../assets/skills/html.png') },
   { name: 'CSS', icon: require('../../assets/skills/css.png') },
-  { name: 'React JS', icon: require('../../assets/skills/react.png') }
+  { name: 'React JS', icon: require('../../assets/skills/react.png') },
+  { name: 'MySQL', icon: require('../../assets/skills/MySQL.png') }
 ];
 
 const Skills = () => {

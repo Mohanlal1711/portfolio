@@ -26,7 +26,7 @@ const Fproject = () => {
 
         <h3 style={{"color":'#7a5cf4'}}><span className='title'>Project Description:</span></h3>
         <p>This project develops an IoT-based system for automating key sericulture tasks like temperature control, feeding, and monitoring, to improve silk production efficiency and quality.</p>
-        <button className="btn download-btn"><a href="https://drive.google.com/file/d/10znEo7MEur0E7NGZ4uru_HsWicueQ4Ws/view?usp=sharing">Download Documents</a></button>
+        <button className="btn download-btn"><a href="https://drive.google.com/drive/folders/1HPtjcEMFXPQHJzqQ13jru7mbW5th4hvA?usp=sharing">Download Documents</a></button>
       </div>
     </div>
   );
