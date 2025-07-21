@@ -5,7 +5,7 @@ import './skills.css';
 
 const skillsData = [
   
-  { name: 'Proteus', icon: require('../../assets/skills/Proteus.png') },
+  { name: 'Proteus', icon: require('../../assets/skills/proteus.png') },
   { name: 'Arduino IDE', icon: require('../../assets/skills/arduino.jpg') },
   { name: 'Autocad', icon: require( '../../assets/skills/autocad.png') },
   { name: 'Embedded C', icon: require('../../assets/skills/embedded.png') },
